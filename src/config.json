@@ -1,0 +1,20 @@
+{
+  "31337": {
+    "STREAX": {
+      "address": "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1"
+    },
+    "explorerURL": "#"
+  },
+  "5": {
+    "explorerURL": "https://goerli.etherscan.io/",
+   "STREAX": {
+    "address": "0x8Cf0031d78D25A456F65e04EbEF35883bb9Da286"
+  }
+  },
+  "80001": {
+    "explorerURL": "https://mumbai.polygonscan.com/",
+   "STREAX": {
+    "address": "0xD14752D2d6255F66DDb20903fa5212d9Cb807515"
+  }
+  }
+}
